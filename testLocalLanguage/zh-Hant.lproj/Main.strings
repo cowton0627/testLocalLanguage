@@ -1,0 +1,42 @@
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "16E-eC-Xh3"; */
+"16E-eC-Xh3.configuration.title" = "下一頁";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "16E-eC-Xh3"; */
+"16E-eC-Xh3.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "I don't have airborne allergy"; ObjectID = "3b0-iW-PqD"; */
+"3b0-iW-PqD.configuration.title" = "我沒有過敏症狀";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3b0-iW-PqD"; */
+"3b0-iW-PqD.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Allergy Symptom Survey"; ObjectID = "7Um-me-3iv"; */
+"7Um-me-3iv.text" = "過敏問卷調查";
+
+/* Class = "UIButton"; configuration.title = "Mild Allergy"; ObjectID = "MgX-9r-NUh"; */
+"MgX-9r-NUh.configuration.title" = "Mild Allergy";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MgX-9r-NUh"; */
+"MgX-9r-NUh.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Moderate Allergy"; ObjectID = "Tdt-Sj-FnV"; */
+"Tdt-Sj-FnV.configuration.title" = "Moderate Allergy";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Tdt-Sj-FnV"; */
+"Tdt-Sj-FnV.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "TfV-Qa-gRh"; */
+"TfV-Qa-gRh.title" = "Item";
+
+/* Class = "UILabel"; text = "The survey is used for ZAP to better help you in the future."; ObjectID = "jNO-PJ-Ctq"; */
+"jNO-PJ-Ctq.text" = "The survey is used for ZAP to better help you in the future.";
+
+/* Class = "UIButton"; configuration.title = "Severe Allergy"; ObjectID = "qq0-JL-HYz"; */
+"qq0-JL-HYz.configuration.title" = "Severe Allergy";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qq0-JL-HYz"; */
+"qq0-JL-HYz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Do you have any allergies triggered by\nairborne substances?"; ObjectID = "u5S-q0-3xJ"; */
+"u5S-q0-3xJ.text" = "Do you have any allergies triggered by\nairborne substances?";
